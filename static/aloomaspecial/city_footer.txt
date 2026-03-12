@@ -1,0 +1,47 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is the average cost to rent a porta potty in the United States?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The average cost for portable toilet rental nationwide typically ranges from $125 to $175 for a standard unit per month. Prices for a luxury porta potty rental nationwide will be higher based on the features and location.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How many porta potties do I need for a 100-person event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For a standard 8-hour event, we recommend two portable toilets for events nationwide. If alcohol is served, we suggest increasing your portable restroom rental in the United States by at least one additional unit.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer same-day portable toilet rental nationwide?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While we prefer 48 hours' notice, we can often accommodate portable toilet rental near me nationwide for emergencies. Our logistics team works 24/7 to dispatch temporary toilet rentals in the United States when they are needed most.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often are the portable restrooms cleaned?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard portable toilet service near me nationwide includes one deep cleaning per week. For high-use areas like construction site porta potties nationwide, we can schedule daily sanitation visits.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are ADA compliant portable toilets required by law?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">In most states, any public event must have at least one ada compliant portable toilet nationwide for every 20 standard units. We ensure your portable sanitation rentals in the United States meet all local and federal accessibility codes.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
